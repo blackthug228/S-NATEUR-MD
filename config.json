@@ -1,0 +1,20 @@
+{
+  "users": {
+    "22898499257": {
+      "sudoList": [
+        "22899520799@s.whatsapp.net",
+        "22898499257@s.whatsapp.net"
+      ],
+      "tagAudioPath": "database/S-NATEUR-MD.mp3",
+      "antilink": true,
+      "response": true,
+      "autoreact": false,
+      "prefix": ".",
+      "reaction": "⚡",
+      "welcome": true,
+      "record": true,
+      "type": true,
+      "publicMode": false
+    }
+  }
+}
